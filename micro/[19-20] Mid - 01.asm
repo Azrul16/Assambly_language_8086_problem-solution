@@ -1,3 +1,11 @@
+; Write a progratn to 
+; (a) display a "?. 
+; (b) lead two decimal digits whose sum is less than 10
+; (c) display them and their sutu on the next line, with an appropriate message. 
+; Sample execution:
+; ?27
+; THE SUM OF 2 AND 7 IS 9
+
 .MODEL SMALL 
 
 .DATA

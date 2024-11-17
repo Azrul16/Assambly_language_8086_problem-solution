@@ -1,3 +1,6 @@
+; Write a program to display a 10x10 solid box of asterisks. 
+; Hint: declare a string in the data segment that specifies the box, and display it with INT 21h, function 9h.
+
 .MODEL SMALL 
 
 .DATA

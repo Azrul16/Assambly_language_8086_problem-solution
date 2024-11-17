@@ -1,3 +1,7 @@
+;Write a program to read one of the hex digits A-F, and display it on the next line in decimal.
+; ENTER A HEX DIGIT: C
+; IN DECIMAL IT IS: 12
+
 .MODEL SMALL 
 
 .DATA
